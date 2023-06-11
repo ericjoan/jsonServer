@@ -1,5 +1,4 @@
-{
-  "posts": [
+[
     {
       "title": "sebas45",
       "author": "sebas3",
@@ -35,9 +34,4 @@
       "author": "beto",
       "id": 16
     }
-  ],
-  "comments": [],
-  "profile": {
-    "name": "typicode"
-  }
-}
+  ]
