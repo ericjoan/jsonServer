@@ -1,13 +1,43 @@
 {
-    "posts": [
-      { "id": 1, "title": "goku", "author": "akira" },
-      { "id": 2, "title": "krilin", "author": "Eric" },
-      { "id": 3, "title": "vegueta", "author": "Claudia" },
-      { "id": 4, "title": "Pikoro", "author": "Felipe" },
-      { "id": 5, "title": "misterpopo", "author": "Pepe" }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 }
-    ],
-    "profile": { "name": "typicode" }
+  "posts": [
+    {
+      "title": "sebas45",
+      "author": "sebas3",
+      "id": 10
+    },
+    {
+      "title": "prueba1",
+      "author": "prueba2",
+      "id": 11
+    },
+    {
+      "title": "sebaspruebas",
+      "author": "gato",
+      "id": 12
+    },
+    {
+      "title": "camilo ",
+      "author": "patiño",
+      "id": 13
+    },
+    {
+      "title": "federico",
+      "author": "peña",
+      "id": 14
+    },
+    {
+      "title": "pinocho",
+      "author": "pinochito",
+      "id": 15
+    },
+    {
+      "title": "beto",
+      "author": "beto",
+      "id": 16
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
   }
+}
