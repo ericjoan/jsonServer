@@ -1,39 +1,60 @@
 {
   "posts": [
     {
-      "title": "sebas45",
-      "author": "sebas3",
-      "id": 10
+      "id": 1,
+      "name": "goku",
+      "lastName": "quintero",
+      "dni": "1234",
+      "age": "25",
+      "rol": "admin"      
     },
     {
-      "title": "prueba1",
-      "author": "prueba2",
-      "id": 11
+      "id": 2,
+      "name": "cuadrado",
+      "lastName": "valencia",
+      "dni": "4567",
+      "age": "30",
+      "rol": "user"  
     },
     {
-      "title": "sebaspruebas",
-      "author": "gato",
-      "id": 12
+      "id": 3,
+      "name": "james",
+      "lastName": "Angulo",
+      "dni": "2345",
+      "age": "34",
+      "rol": "admin"  
     },
     {
-      "title": "camilo ",
-      "author": "patiño",
-      "id": 13
+      "id": 3,
+      "name": "Pepe",
+      "lastName": "Romario",
+      "dni": "0987",
+      "age": "52",
+      "rol": "user"  
     },
     {
-      "title": "federico",
-      "author": "peña",
-      "id": 14
+      "id": 4,
+      "name": "krilin",
+      "lastName": "Emeterio",
+      "dni": "0202",
+      "age": "43",
+      "rol": "admin"  
     },
     {
-      "title": "pinocho",
-      "author": "pinochito",
-      "id": 15
+      "id": 5,
+      "name": "Lolita",
+      "lastName": "Batistuta",
+      "dni": "0998",
+      "age": "32",
+      "rol": "user"  
     },
     {
-      "title": "beto",
-      "author": "beto",
-      "id": 16
+      "id": 6,
+      "name": "Antonela",
+      "lastName": "Dulce",
+      "dni": "3456",
+      "age": "30",
+      "rol": "admin"  
     }
   ],
   "comments": [],
